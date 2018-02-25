@@ -1,5 +1,5 @@
 {
-    "name": "authorizenet/authorizenet",
+    "name": "pfeurean/authorizenet",
     "type": "library",
     "description": "Official PHP SDK for Authorize.Net",
     "keywords": ["authorizenet", "authorize.net", "payment", "ecommerce"],
