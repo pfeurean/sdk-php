@@ -1,10 +1,10 @@
 {
     "name": "pfeurean/authorizenet",
     "type": "library",
-    "description": "Official PHP SDK for Authorize.Net",
-    "keywords": ["authorizenet", "authorize.net", "payment", "ecommerce"],
+    "description": "Official PHP SDK for Authorize.Net (with a BluePay Patch)",
+    "keywords": ["authorizenet", "authorize.net", "payment", "ecommerce", "bluepay"],
     "license": "proprietary",
-    "homepage": "http://developer.authorize.net",
+    "homepage": "http://github.com/pfeurean",
     "require": {
         "php": ">=5.6",
         "ext-curl": "*",
